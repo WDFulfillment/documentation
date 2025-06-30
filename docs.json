@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ff0000",
+    "light": "#ff4444",
+    "dark": "#cc0000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -57,6 +57,11 @@
     ],
     "global": {
       "anchors": [
+        {
+          "anchor": "API Documentation",
+          "href": "https://rest.wd-fs.com/index.html",
+          "icon": "code"
+        },
         {
           "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
